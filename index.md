@@ -17,38 +17,38 @@
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab2">Lab 2</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab2/index.html">Assignment 2</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab2/index.html">Assignment 2</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab3">Lab 3</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab3/src/index.html">Assignment 3</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab3/src/index.html">Assignment 3</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab4">Lab 4</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab4/index.html">Assignment 4</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab4/index.html">Assignment 4</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab5">Lab 5</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab5/index.html">Assignment 5</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab5/index.html">Assignment 5</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab6">Lab 6</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab6/Lab6_Exercise/index.html">Assignment 6 Exercise</a></li>
-					<li><a href="https://GEOG_817/Lab6/Lab6_UserMap/index.html">Assignment 6 User Map</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab6/Lab6_Exercise/index.html">Assignment 6 Exercise</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab6/Lab6_UserMap/index.html">Assignment 6 User Map</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab7">Lab 7</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab7/part1/index.html">Assignment 7 Part 1</a></li>
-					<li><a href="https://GEOG_817/Lab7/part2-1/index.html">Assignment 7 Part 2-1</a></li>
-					<li><a href="https://GEOG_817/Lab7/part2-2/index.html">Assignment 7 Part 2-2</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab7/part1/index.html">Assignment 7 Part 1</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab7/part2-1/index.html">Assignment 7 Part 2-1</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab7/part2-2/index.html">Assignment 7 Part 2-2</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab8">Lab 8</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab8/index.html">Assignment 8</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab8/index.html">Assignment 8</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/FinalProject">Final Project</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/FinalProject/index2.html">Final Project WebMap</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/FinalProject/index2.html">Final Project WebMap</a></li>
 				</ul>
 		</ul>
 	</body>
