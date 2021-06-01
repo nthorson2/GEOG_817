@@ -13,7 +13,7 @@
 		<ul>
 			<li><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab1">Lab 1</a></li>
 				<ul>
-					<li><a href="https://GEOG_817/Lab1/index.html">Assignment 1</a></li>
+					<li><a href="https://nthorson2.github.io/GEOG_817/Lab1/index.html">Assignment 1</a></li>
 				</ul>
 			<li style="padding-top: 5px;"><a href="https://github.com/nthorson2/GEOG_817/tree/master/Lab2">Lab 2</a></li>
 				<ul>
